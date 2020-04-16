@@ -1,6 +1,6 @@
 # my-videotom3u8
-m3u8视频加密播放(Blob Url)  
-video视频加密播放(Blob Url)  
+m3u8视频加密播放(Blob Url) 存在问题：视频资源太大跳转帧数时会卡  
+video视频加密播放(Blob Url) 存在问题：视频资源太大会加载很慢  
 
 # 参考网站
 > ffmpeg生成m3u8视频流文件。自己测试过很好用。  
